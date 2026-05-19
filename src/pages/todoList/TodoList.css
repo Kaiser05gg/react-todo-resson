@@ -1,0 +1,40 @@
+.title-textbox {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.description-textbox {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.add-btn {
+  padding: 3px;
+  width: 100px;
+}
+
+.todo-area {
+  margin-top: 50px;
+  padding: 20px;
+  border: 1px solid #d1d1d1;
+  border-radius: 5px;
+}
+
+.todo-area-title {
+  color: blue;
+  margin: 0;
+}
+
+.todo-ul {
+  padding-inline-start: 0;
+  padding-left: none;
+}
+
+.todo-li {
+  margin: 2rem 2rem 0;
+  padding: 10px;
+  border-bottom: 1px solid #d1d1d1;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
